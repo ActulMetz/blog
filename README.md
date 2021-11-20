@@ -1,2 +1,0 @@
-# blog
-Blog sur Metz
